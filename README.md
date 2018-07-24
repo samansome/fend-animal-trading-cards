@@ -1,2 +1,3 @@
-# fend-animal-trading-cards
-Shotonwa Samson udacity nanodegree project 1
+ # FEND ANIMAL TRADING CARDS PROJECT MASTER.
+ 
+ <img src="design-prototype.png" alt="Clownfish">
